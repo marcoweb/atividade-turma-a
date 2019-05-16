@@ -1,1 +1,2 @@
-# atividade-turma-a
+# Atividade GIT/GITHUB
+Atividade sobre pull requests
